@@ -17,7 +17,7 @@ The site doesn’t provide an efficient way to batch-download tracks, so this to
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/khinsider_downloader.git
+git clone https://github.com/siddegir/khinsider_downloader.git
 cd khinsider_downloader
 pip install -r requirements.txt
 ```
